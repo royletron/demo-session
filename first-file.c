@@ -2,7 +2,7 @@
 
 int main()
 {
-  assert(0);
+  assert(1);
 
   return 1;
 }
